@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.targets(190,5): warning : パス 'C:\Users\user\Desktop\２Dアクションゲーム\2DActionGameProject\2DAction.b0481b17\x64\Debug\unity_94SZFC613RU9CRL8.cpp' の一部が見つかりませんでした。
+  unity_6OR8GW7ROW03IKRO.cpp
+LINK : fatal error LNK1104: ファイル 'DxDrawFunc_vs2015_x64_MDd.lib' を開くことができません。

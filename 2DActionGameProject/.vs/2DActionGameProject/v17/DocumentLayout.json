@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\uFF12D\u30A2\u30AF\u30B7\u30E7\u30F3\u30B2\u30FC\u30E0\\2DActionGameProject\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0481B17-D7E0-4A75-88A2-46C79C4EDF62}|2DActionGameProject.vcxproj|C:\\Users\\user\\Desktop\\\uFF12D\u30A2\u30AF\u30B7\u30E7\u30F3\u30B2\u30FC\u30E0\\2DActionGameProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B0481B17-D7E0-4A75-88A2-46C79C4EDF62}|2DActionGameProject.vcxproj|C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B0481B17-D7E0-4A75-88A2-46C79C4EDF62}|2DActionGameProject.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0481B17-D7E0-4A75-88A2-46C79C4EDF62}|2DActionGameProject.vcxproj|C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0481B17-D7E0-4A75-88A2-46C79C4EDF62}|2DActionGameProject.vcxproj|solutionrelative:Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\Main.h",
+              "RelativeDocumentMoniker": "Main.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\Main.h",
+              "RelativeToolTip": "Main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-11T12:29:08.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uFF12D\u30A2\u30AF\u30B7\u30E7\u30F3\u30B2\u30FC\u30E0\\2DActionGameProject\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\uFF12D\u30A2\u30AF\u30B7\u30E7\u30F3\u30B2\u30FC\u30E0\\2DActionGameProject\\Main.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2DActionGameProjectFile\\2DActionGameProject\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-11T12:03:33.836Z",
               "EditorCaption": ""

@@ -13,6 +13,17 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ヘッダー ファイル\_Main_h">
+      <UniqueIdentifier>{07c8bb3a-9b86-455e-9a64-cc601f1b4386}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\_Main_cpp">
+      <UniqueIdentifier>{4f9db2a1-d00a-4216-b683-f46c5d6c76da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>ヘッダー ファイル\_Main_h</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
